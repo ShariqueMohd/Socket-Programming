@@ -1,0 +1,5 @@
+1) main.c is the main controller
+2) header.h contains all the header files and global data
+3) common.h contains all the commonly used functions
+4) server.h contains the server function implementations
+5) client.h contains the client function implementations
